@@ -2,7 +2,7 @@
 
 # Fiddin Yusfida A'la
 
-### Lektor · Teknik Informatika · Universitas Sebelas Maret
+### Lecturer (Lektor) · Informatics Engineering · Universitas Sebelas Maret
 
 Computer Vision · Deep Learning · Medical Image Classification · Applied Machine Learning
 
@@ -10,36 +10,36 @@ Computer Vision · Deep Learning · Medical Image Classification · Applied Mach
 
 </div>
 
-## Tentang Saya / About Me
+## About Me
 
 Lecturer and researcher in Informatics Engineering at Universitas Sebelas Maret with research interests in computer vision, deep learning, medical image classification, and applied machine learning.
 
-Saya berfokus pada pengembangan dan penerapan metode machine learning untuk menyelesaikan permasalahan nyata, khususnya dalam analisis serta klasifikasi citra.
+My work focuses on developing and applying machine learning methods to real-world problems, particularly in image analysis and classification.
 
-## Bidang Keahlian / Expertise
+## Areas of Expertise
 
 - Computer Vision
 - Deep Learning
 - Medical Image Classification
 - Applied Machine Learning
 
-## Karya Pilihan
+## Selected Work
 
-Repository penelitian, materi kuliah, dan proyek akan ditampilkan di bagian ini setelah tersedia.
+Research repositories, teaching resources, and selected projects will be featured here as they become available.
 
-## Profil Akademik / Academic Profiles
+## Academic Profiles
 
 - [Google Scholar](https://scholar.google.com/citations?user=FsmcmLgAAAAJ&hl=en)
 - [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6757948)
 - [ORCID](https://orcid.org/0000-0003-0484-0827)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211329861)
 - [LinkedIn](https://id.linkedin.com/in/fiddinyusfida)
-- [Program Studi Teknik Informatika](https://startika.vokasi.uns.ac.id)
+- [Informatics Engineering Department](https://startika.vokasi.uns.ac.id)
 
-## Mari Berkolaborasi / Let's Collaborate
+## Collaboration
 
-Terbuka untuk kolaborasi riset di bidang computer vision, deep learning, medical image analysis, dan applied machine learning. Hubungi saya melalui [fiddin@staff.uns.ac.id](mailto:fiddin@staff.uns.ac.id) atau kunjungi [website akademik saya](https://fiddin-yusfida.github.io).
+I welcome research collaborations in computer vision, deep learning, medical image analysis, and applied machine learning. Contact me at [fiddin@staff.uns.ac.id](mailto:fiddin@staff.uns.ac.id) or visit my [academic website](https://fiddin-yusfida.github.io).
 
 ---
 
-<sub>Profil akademik ini diperbarui secara bertahap berdasarkan informasi yang telah diverifikasi.</sub>
+<sub>This academic profile is maintained using verified information.</sub>

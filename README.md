@@ -1,33 +1,44 @@
 <div align="center">
 
-# Fiddin Yusfida
+# Fiddin Yusfida A'la
 
-### Lecturer · Researcher · Lifelong Learner
+### Lektor · Teknik Informatika · Universitas Sebelas Maret
 
-Membangun pembelajaran, riset, dan teknologi yang bermanfaat.
+Computer Vision · Deep Learning · Medical Image Classification · Applied Machine Learning
 
 [![Academic Website](https://img.shields.io/badge/Academic_Website-Visit-183153?style=for-the-badge&logo=githubpages&logoColor=white)](https://fiddin-yusfida.github.io)
 
 </div>
 
-## Tentang Saya
+## Tentang Saya / About Me
 
-Saya adalah dosen yang tertarik pada pengembangan pembelajaran, penelitian terapan, dan pemanfaatan teknologi untuk menghasilkan dampak yang terukur. Profil ini menjadi pusat dokumentasi karya akademik, materi ajar, dan proyek kolaboratif saya.
+Lecturer and researcher in Informatics Engineering at Universitas Sebelas Maret with research interests in computer vision, deep learning, medical image classification, and applied machine learning.
 
-## Fokus
+Saya berfokus pada pengembangan dan penerapan metode machine learning untuk menyelesaikan permasalahan nyata, khususnya dalam analisis serta klasifikasi citra.
 
-- Pengajaran dan pengembangan materi pembelajaran
-- Penelitian terapan dan publikasi ilmiah
-- Teknologi untuk pendidikan dan masyarakat
-- Kolaborasi akademik lintas disiplin
+## Bidang Keahlian / Expertise
+
+- Computer Vision
+- Deep Learning
+- Medical Image Classification
+- Applied Machine Learning
 
 ## Karya Pilihan
 
 Repository penelitian, materi kuliah, dan proyek akan ditampilkan di bagian ini setelah tersedia.
 
-## Mari Berkolaborasi
+## Profil Akademik / Academic Profiles
 
-Informasi publikasi, aktivitas akademik, dan kanal kontak tersedia di [website akademik saya](https://fiddin-yusfida.github.io).
+- [Google Scholar](https://scholar.google.com/citations?user=FsmcmLgAAAAJ&hl=en)
+- [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6757948)
+- [ORCID](https://orcid.org/0000-0003-0484-0827)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211329861)
+- [LinkedIn](https://id.linkedin.com/in/fiddinyusfida)
+- [Program Studi Teknik Informatika](https://startika.vokasi.uns.ac.id)
+
+## Mari Berkolaborasi / Let's Collaborate
+
+Terbuka untuk kolaborasi riset di bidang computer vision, deep learning, medical image analysis, dan applied machine learning. Hubungi saya melalui [fiddin@staff.uns.ac.id](mailto:fiddin@staff.uns.ac.id) atau kunjungi [website akademik saya](https://fiddin-yusfida.github.io).
 
 ---
 

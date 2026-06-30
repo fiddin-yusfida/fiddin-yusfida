@@ -25,14 +25,15 @@ My work focuses on developing and applying machine learning methods to real-worl
 
 ## Selected Work
 
-My research has progressed from applied sentiment analysis to computer vision, medical image classification, and optimized recommender systems.
+My research has progressed from medical classification and applied information systems to sentiment analysis, computer vision, medical imaging, educational analytics, and optimized recommender systems.
 
 - **2025 — Advanced Machine Learning and Recommender Systems:** IndoBERT with SMOTE, ALS optimization with particle swarm optimization, hybrid ALS–CatBoost recommendation, and CNN-based rice leaf disease classification.
 - **2024 — Medical Imaging and Safety Computer Vision:** Diabetic retinopathy classification with MobileNetV2 and comparative YOLO research for construction safety.
 - **2023 — YOLO-Based Object Detection:** Agricultural object detection and safety helmet detection using data augmentation and modern YOLO architectures.
 - **2022 — Indonesian Sentiment Analysis:** Machine-learning analysis of large-scale Indonesian application reviews.
+- **2019 — Medical Classification:** Comparative evaluation of tree-based machine-learning algorithms for breast-cancer detection.
 
-Selected publications and DOI links are available on my [academic website](https://fiddin-yusfida.github.io/#history). Complete records are maintained on [Google Scholar](https://scholar.google.com/citations?user=FsmcmLgAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211329861).
+Selected publications and DOI links are available on my [academic website](https://fiddin-yusfida.github.io/#history). Complete records are maintained on [Google Scholar](https://scholar.google.com/citations?user=FsmcmLgAAAAJ&hl=en), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211329861), and [IEEE Xplore](https://ieeexplore.ieee.org/author/37087014147).
 
 ## Academic Profiles
 
@@ -40,6 +41,7 @@ Selected publications and DOI links are available on my [academic website](https
 - [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6757948)
 - [ORCID](https://orcid.org/0000-0003-0484-0827)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211329861)
+- [IEEE Xplore](https://ieeexplore.ieee.org/author/37087014147)
 - [LinkedIn](https://id.linkedin.com/in/fiddinyusfida)
 - [Informatics Engineering Department](https://startika.vokasi.uns.ac.id)
 
